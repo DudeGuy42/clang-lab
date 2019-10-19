@@ -3,4 +3,6 @@
 *.o
 *.txt
 
+__pycache__/*
+
 .vscode/*
